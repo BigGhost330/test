@@ -29,6 +29,7 @@ for a = 1 : numFrames
        j = 1;
        i = i + 1;
     end
+    
     i = 1;
     j = 1;
     R = mean(ro(:)); %计算RGB三个矩阵的均值
