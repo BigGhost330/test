@@ -47,4 +47,5 @@ axis([0 750 0 255]);
 xlabel('帧');
 ylabel('rgb值');
 title('RGB曲线');
+%绘制图注
 legend('R', 'G', 'B'); 
